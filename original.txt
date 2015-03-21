@@ -1,0 +1,8 @@
+// To demonstrate chosen-prefix collision attacks,
+// here is an innocuous JavaScript program.
+// The file forged.txt has the same "aeshash" as this one,
+// showing that aeshash is not a secure hash.
+
+function sayHello() {
+	alert("Hello, world!");
+}

